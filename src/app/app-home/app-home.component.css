@@ -1,0 +1,14 @@
+
+
+
+.panel {
+  border-color: #333333;
+  color: #333333;
+  background-color: white;
+  font-size: 64px;
+  margin: 4px;
+  padding: 32px;
+  text-align: center;
+  border-radius: 2px;
+}
+
